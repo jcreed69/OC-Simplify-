@@ -66,3 +66,4 @@ EFI's Built In:
 OC-Simplify helps more users to use hackintosh instead of giving up because of one simple error. so this is why i made this programm.
 
 
+
