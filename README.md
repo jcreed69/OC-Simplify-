@@ -3,6 +3,12 @@ Makes and Guides you to make a EFI
 
 This is a Python script to Simplify your EFI. This also has the option to install my EFI's which are available.
 
+EFI's Built In:
+  - Steam Deck LCD and OLED "Deckintosh"
+  - Lenovo IdeaPad 3 11th gen CPUS
+
+---Compatiblity List for OC simplify---
+
 -Compatible Intel CPU Generations-
   - 4th Gen (Haswell)
   - 5th Gen (Broadwell)
