@@ -30,3 +30,27 @@ This is a Python script to Simplify your EFI. This also has the option to instal
   - Intel Iris Plus Graphics (Found on Ice Lake processors)
 
 -Compatible AMD GPU'S-
+  - AMD Radeon RX 6900 XT
+  - AMD Radeon RX 6800 XT
+  - AMD Radeon RX 6800
+  - AMD Radeon RX 6600 XT
+  - AMD Radeon RX 6600
+  - AMD Radeon RX 5700 XT
+  - AMD Radeon RX 5700
+  - AMD Radeon RX 5600 XT
+  - AMD Radeon RX 5600
+  - AMD Radeon RX 5500 XT
+  - AMD Radeon RX 5500
+  - AMD Radeon RX 5300
+  - AMD Radeon VII
+  - AMD Radeon Vega Frontier Edition
+  - AMD Radeon Vega 64
+  - AMD Radeon Vega 56
+  - AMD Radeon RX 590
+  - AMD Radeon RX 580
+  - AMD Radeon RX 570
+  - AMD Radeon RX 480
+  - AMD Radeon RX 470
+  - AMD Radeon RX 460
+  - AMD Radeon RX 560
+  - AMD Radeon RX 550 (Baffin core only)
