@@ -34,6 +34,7 @@ EFI's Built In:
 -Compatible Intel iGPU'S-
   - Intel UHD Graphics 630 (Found on 8th, 9th, and 10th Gen desktop processors)
   - Intel Iris Plus Graphics (Found on Ice Lake processors)
+  - Intel Iris XE Graphics (im currently using it but not recommended for 7MB of Graphics)
 
 -Compatible AMD GPU'S-
   - AMD Radeon RX 6900 XT
@@ -60,3 +61,8 @@ EFI's Built In:
   - AMD Radeon RX 460
   - AMD Radeon RX 560
   - AMD Radeon RX 550 (Baffin core only)
+
+# Instructions(how to use it)
+OC-Simplify helps more users to use hackintosh instead of giving up because of one simple error. so this is why i made this programm.
+
+
